@@ -1,0 +1,90 @@
+body {
+	background-color: #4DB6AC;
+}
+
+.time {
+	background-color: white;
+}
+
+.gw {
+	background-color: white;
+}
+
+.navigation{
+	background-color: #4B4B4B;
+}
+#list {
+	list-style-type: none;
+}
+.animation {
+	width: 48%;
+	height: 402px;
+	background-color: white;
+	float: left;
+	margin: 10px;
+}
+
+.games {
+	width: 45%;
+	height: 402px;
+	background-color: white;
+	float: left;
+	margin: 10px;
+	padding-left: 20px;
+}
+
+.heading {
+	background-color: white;
+}
+
+.lightning {
+	background-color: yellow;
+	border: double;
+}
+.avalanche {
+	background-color: white;
+}
+
+.tornado {
+	background-color: gray;
+	border: double;
+}
+
+.fire {
+	background-color: red;
+}
+
+.earth {
+	background-color: #674A3A;
+	border: double;
+}
+
+.tsunami {
+	background-color: blue;
+}
+
+.hurricane {
+	background-color: gray;
+	border: double;
+}
+
+h1, h2, h5 {
+	color: #EF6C00;
+	text-align: center;
+}
+
+.navigation :link {
+	color: #EF6C00;
+}
+
+.navigation :visited {
+	color: #EF6C00;
+}
+
+.navigation :hover {
+	color: white;
+}
+
+.navigation :active {
+	color: #EF6C00;
+}
